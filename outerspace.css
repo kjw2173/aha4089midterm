@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+    position: relative;
+}
+#title {
+  text-align: center;
+  color: #82A3FF;
+  font-size: 48px;
+  font-family: helvetica; sans-serif;
+  margin-top: 100px;
+  
+}
+#globe {
+  scale: 400%;
+  margin: auto;
+}
+#globeTwo {
+  margin: auto;
+}
+
+.Hotspot {
+  scale: 20%;
+}
